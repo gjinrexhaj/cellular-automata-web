@@ -1,0 +1,6 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_C_COMPILER=/opt/homebrew/Cellar/emscripten/4.0.15/bin/emcc -DCMAKE_CXX_COMPILER=/opt/homebrew/Cellar/emscripten/4.0.15/bin/em++ -DCMAKE_TOOLCHAIN_FILE=/opt/homebrew/Cellar/emscripten/4.0.15/libexec/cmake/Modules/Platform/Emscripten.cmake -S "/Users/gjin/DEV/CLion Projects/cellular-automata" -B "/Users/gjin/DEV/CLion Projects/cellular-automata/cmake-build-release-emscripten"
+Building for WASM
+Passing WASM-specific linkage flags
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/gjin/DEV/CLion Projects/cellular-automata/cmake-build-release-emscripten

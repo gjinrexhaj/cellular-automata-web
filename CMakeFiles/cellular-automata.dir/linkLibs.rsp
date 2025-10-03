@@ -1,0 +1,1 @@
+  -L"/Users/gjin/DEV/CLion Projects/cellular-automata/./external/raylib-5.5_webassembly/lib"  -lraylib 

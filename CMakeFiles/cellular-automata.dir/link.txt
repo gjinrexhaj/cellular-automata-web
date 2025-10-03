@@ -1,0 +1,1 @@
+/opt/homebrew/Cellar/emscripten/4.0.15/libexec/em++ -O3 -DNDEBUG  -s USE_GLFW=3 -s ASSERTIONS=1 -s WASM=1 -s ASYNCIFY -s GL_ENABLE_GET_PROC_ADDRESS=1 -sALLOW_MEMORY_GROWTH=1 @CMakeFiles/cellular-automata.dir/objects1.rsp -o cellular-automata.html @CMakeFiles/cellular-automata.dir/linkLibs.rsp
